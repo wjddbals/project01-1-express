@@ -1,0 +1,11 @@
+{
+  "name": "semiPojectV1-express",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "oracledb": "^5.5.0",
+    "morgan": "^1.10.0"
+  }
+}
